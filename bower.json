@@ -1,0 +1,7 @@
+{
+  "name": "Halo Streams",
+  "dependencies": {
+    "bootstrap-sass": "~3.3.3",
+    "font-awesome": "~4.3.0"
+  }
+}
